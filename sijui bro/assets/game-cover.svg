@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 900" role="img" aria-labelledby="title description">
+  <title id="title">Original gaming artwork</title>
+  <desc id="description">Abstract neon shapes on a dark background with the words game pick.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#292337"/>
+      <stop offset="1" stop-color="#111210"/>
+    </linearGradient>
+    <linearGradient id="beam" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#a590ff" stop-opacity=".1"/>
+      <stop offset=".55" stop-color="#c7f36b" stop-opacity=".8"/>
+      <stop offset="1" stop-color="#c7f36b" stop-opacity=".05"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="900" fill="url(#background)"/>
+  <circle cx="320" cy="370" r="205" fill="none" stroke="#a590ff" stroke-opacity=".35" stroke-width="2"/>
+  <circle cx="320" cy="370" r="155" fill="none" stroke="#c7f36b" stroke-opacity=".5" stroke-width="2"/>
+  <path d="M75 635 282 251l89 184 90-121 104 321H75Z" fill="url(#beam)" opacity=".75"/>
+  <path d="M80 675h480M115 715h410M155 755h330" fill="none" stroke="#f3f1ea" stroke-opacity=".16" stroke-width="2"/>
+  <rect x="55" y="55" width="530" height="790" fill="none" stroke="#f3f1ea" stroke-opacity=".22" stroke-width="2"/>
+  <text x="78" y="116" fill="#c7f36b" font-family="Arial, sans-serif" font-size="21" font-weight="700" letter-spacing="5">SIJUI BRO. · GAME PICKS</text>
+  <text x="78" y="798" fill="#f3f1ea" font-family="Arial, sans-serif" font-size="48" font-weight="700" letter-spacing="4">GAME PICK</text>
+</svg>
