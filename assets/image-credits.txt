@@ -1,0 +1,28 @@
+Image credits and licenses
+=============================
+
+Wikimedia Commons files (credits and license terms):
+- game-cover.svg: Original abstract artwork created for this project.
+- black-and-white-playstation-5-base-edition-with-controller.png: Howardcorn33; CC0. Source: https://commons.wikimedia.org/wiki/File:Black_and_white_Playstation_5_base_edition_with_controller.png; License: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+- hp-mouse-and-mousepad-20060803.jpg: Lovecz; Public domain. Source: https://commons.wikimedia.org/wiki/File:HP_mouse_and_mousepad_20060803.jpg
+- microsoft-xbox-one-controller.jpg: Evan-Amos; Public domain. Source: https://commons.wikimedia.org/wiki/File:Microsoft-Xbox-One-controller.jpg
+- msi-gaming-pc-2024-09-30.png: MoreThanTech; CC BY 3.0. Source: https://commons.wikimedia.org/wiki/File:MSI-Gaming-PC_2024-09-30.png; License: https://creativecommons.org/licenses/by/3.0
+- nintendo-switch-lite-blue.jpg: GerdeeX; CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Nintendo_switch_lite_blue.jpg; License: https://creativecommons.org/licenses/by-sa/4.0
+- nintendo-switch-oled-modell-mit-gedockter-konsole-20230506-hof01624-raw-export.png: PantheraLeo1359531; CC BY 4.0. Source: https://commons.wikimedia.org/wiki/File:Nintendo_Switch_–_OLED-Modell_mit_gedockter_Konsole_20230506_HOF01624_RAW-Export.png; License: https://creativecommons.org/licenses/by/4.0
+- playstation-5-and-dualsense-with-transparent-background.png: Soberian (this retouched file)Osh33m (original photograph); CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:PlayStation_5_and_DualSense_with_transparent_background.png; License: https://creativecommons.org/licenses/by-sa/4.0
+- rog-ally-11.jpg: KKPCW (Kyu3); CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:ROG_ALLY_-_11.jpg; License: https://creativecommons.org/licenses/by-sa/4.0
+- rtx-5080.png: XD7006; CC BY 4.0. Source: https://commons.wikimedia.org/wiki/File:RTX_5080.png; License: https://creativecommons.org/licenses/by/4.0
+- samsung-m-2-nvme-ssd-990-pro-4tb.jpg: Dinkun Chen; CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:SAMSUNG_M.2_NVMe_SSD_990_PRO_4TB.jpg; License: https://creativecommons.org/licenses/by-sa/4.0
+- steam-deck-oled-framsida-hemskarm.jpg: SparklesTrainNerd; CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Steam_Deck_OLED_framsida_hemskärm.jpg; License: https://creativecommons.org/licenses/by-sa/4.0
+- usb-microphone.jpg: Evan-Amos; Public domain. Source: https://commons.wikimedia.org/wiki/File:USB-Microphone.jpg
+- xbox-series-s.png: Emrekozan00; CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Xbox_Series_S.png; License: https://creativecommons.org/licenses/by-sa/4.0
+- xbox-series-x-2.jpg: Der. Bellemer; CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Xbox_Series_X_2.jpg; License: https://creativecommons.org/licenses/by-sa/4.0
+
+Unsplash images are covered by the Unsplash License: https://unsplash.com/license
+Downloaded source image URLs:
+- unsplash-photo-1527443224154-c4a3942d3acf.jpg: https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=800&q=85
+- unsplash-photo-1527814050087-3793815479db.jpg: https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=800&q=85
+- unsplash-photo-1587202372775-e229f172b9d7.jpg: https://images.unsplash.com/photo-1587202372775-e229f172b9d7?auto=format&fit=crop&w=1400&q=85
+- unsplash-photo-1593642632823-8f785ba67e45.jpg: https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=800&q=85
+- unsplash-photo-1595225476474-87563907a212.jpg: https://images.unsplash.com/photo-1595225476474-87563907a212?auto=format&fit=crop&w=800&q=85
+- unsplash-photo-1599669454699-248893623440.jpg: https://images.unsplash.com/photo-1599669454699-248893623440?auto=format&fit=crop&w=800&q=85
